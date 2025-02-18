@@ -1,4 +1,4 @@
-project_id = "my-project-id"
-region     = "us-east1"
+project_id = "qwiklabs-gcp-01-7e37f0fb503e"
+region     = "us-central1"
 tf_state_bucket = "rashmikarnik"
-infra_bucket = "my-project-id-infra"
+infra_bucket = "rashmikarnik"
