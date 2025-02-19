@@ -1,4 +1,4 @@
-project_id = "qwiklabs-gcp-01-7e37f0fb503e"
+project_id = "qwiklabs-gcp-02-ab2d6763128d"
 region     = "us-central1"
-tf_state_bucket = "rashmikarnik"
-infra_bucket = "rashmikarnik"
+tf_state_bucket = "terraform-bucket-002"
+infra_bucket = "terraform-bucket-002-infra"
