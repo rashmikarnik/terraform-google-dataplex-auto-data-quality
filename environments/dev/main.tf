@@ -14,7 +14,7 @@
 
 module "deploy-dev" {
   source                 = "../../modules/deploy"
-  project_id             = "qwiklabs-gcp-03-50a4c8850f7f"
+  project_id             = "inlaid-goods-451523-i3"
   data_quality_spec_file = "rules/orders.dev.yaml"
   environment            = "dev"
 }
