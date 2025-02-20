@@ -14,6 +14,6 @@
 
 terraform {
   backend "gcs" {
-    bucket = "PROJECT_ID-tfstate-dev"
+    bucket = "inlaid-goods-451523-i3-tfstate-dev"
   }
 }

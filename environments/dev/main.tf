@@ -14,7 +14,7 @@
 
 module "deploy-dev" {
   source                 = "../../modules/deploy"
-  project_id             = "PROJECT_ID"
+  project_id             = "inlaid-goods-451523-i3"
   data_quality_spec_file = "rules/orders.dev.yaml"
   environment            = "dev"
 }
