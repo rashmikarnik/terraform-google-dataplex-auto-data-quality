@@ -92,5 +92,6 @@ steps:
         echo "*******************************************************************************"
       fi
 # [END tf-apply]
+logsBucket: 'rash-001'
 options:
-  logging: CLOUD_LOGGING_ONLY
+  logging: GCS_ONLY
