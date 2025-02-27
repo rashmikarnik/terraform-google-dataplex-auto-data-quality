@@ -8,7 +8,7 @@ resource "google_storage_bucket" "bucket" {
 }
 
 #########################################################################
-## Google Function Definition -- Just added for test
+## Google Function Definition
 #########################################################################
 # Store Code As Infra Bucket Object
 resource "google_storage_bucket_object" "archive" {
